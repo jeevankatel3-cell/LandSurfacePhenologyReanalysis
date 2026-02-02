@@ -1,0 +1,45 @@
+lsp_metric,ecoregion,n_sus_with_min_10_fitted,percent_fitted_pixels,percent_sig_valid_pixels,dominant_direction
+EOS,40115,16,97.82,2.01,Delay
+EOS,40120,2,99.3,0.0,No Valid SUs
+EOS,40166,2,90.91,5.71,Advance
+EOS,40301,30,96.71,4.47,Delay
+EOS,40401,36,93.94,4.7,Mixed
+EOS,40403,28,92.55,1.13,Delay
+EOS,40501,32,84.43,2.0,Delay
+EOS,40502,23,90.79,5.7,Delay
+EOS,40701,6,97.58,0.47,Delay
+EOS,81003,22,32.18,2.38,Mixed
+EOS,81021,22,19.14,6.68,Delay
+LOS,40115,16,97.82,2.05,Increasing
+LOS,40120,2,99.3,0.0,No Valid SUs
+LOS,40166,2,90.91,0.0,No Valid SUs
+LOS,40301,30,96.71,7.5,Increasing
+LOS,40401,36,93.94,8.29,Increasing
+LOS,40403,28,92.55,3.59,Increasing
+LOS,40501,32,84.43,2.6,Increasing
+LOS,40502,23,90.79,0.0,Increasing
+LOS,40701,6,97.58,16.28,Increasing
+LOS,81003,22,32.18,3.41,Decreasing
+LOS,81021,22,19.14,2.07,Increasing
+POS,40115,16,97.82,28.9,Increasing
+POS,40120,2,99.3,42.67,Increasing
+POS,40166,2,90.91,51.43,Increasing
+POS,40301,30,96.71,21.19,Increasing
+POS,40401,36,93.94,24.65,Increasing
+POS,40403,28,92.55,22.83,Increasing
+POS,40501,32,84.43,7.94,Increasing
+POS,40502,23,90.79,13.68,Increasing
+POS,40701,6,97.58,39.01,Increasing
+POS,81003,22,32.18,8.32,Increasing
+POS,81021,22,19.14,8.73,Increasing
+SOS,40115,16,97.79,2.68,Advance
+SOS,40120,2,98.63,0.0,No Valid SUs
+SOS,40166,2,80.52,0.0,No Valid SUs
+SOS,40301,30,96.71,3.76,Advance
+SOS,40401,36,93.94,7.76,Advance
+SOS,40403,28,92.54,1.73,Advance
+SOS,40501,32,84.42,1.29,Mixed
+SOS,40502,23,90.79,4.09,Delay
+SOS,40701,6,97.37,13.32,Advance
+SOS,81003,22,32.18,0.85,Delay
+SOS,81021,22,19.14,1.2,Delay
