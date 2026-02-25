@@ -26,7 +26,7 @@ Land Surface Phenology (LSP) — derived from satellite vegetation indices — i
 ```
 LSP_WS/
 ├── Codes/               # All analysis scripts (see below)
-├── Data/
+├── Data/                # Is Zipped and uploaded to Zenodo, extract from there to your cloned repository
 │   ├── DEM_Rasters/             # Elevation, slope, aspect rasters
 │   ├── Ecoregion_raster/        # Nepal ecoregion boundary raster
 │   ├── Environmental_Drivers/   # TerraClimate climate variable rasters
@@ -38,7 +38,7 @@ LSP_WS/
 │   ├── Processed/               # Intermediate processed outputs
 │   ├── Final/                   # Final outputs and figures
 │   └── roi_nepal/               # Nepal region of interest boundary
-└── Documents/           # Peer-review workflow documents
+└── Documents/           # removed
 ```
 
 ### Scripts (`Codes/`)
@@ -80,6 +80,16 @@ The Python analysis environment requires the following major packages:
 | `geemap` | GEE interactive mapping |
 
 > TIMESAT 3.3 (standalone software) is required for EVI time-series smoothing and LSP metric extraction prior to the Python workflow.
+
+## Zenodo Data
+
+The /Data folder (along with detailed analysis results) is available on Zenodo at https://doi.org/10.5281/zenodo.8266666
+
+## Publication
+"TITLE" is currently under review at International Journal of Biometeorology
+
+## Contact
+jeevankatel3@gmail.com if you have any questions or suggestions
 
 ---
 
