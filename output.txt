@@ -1,0 +1,74 @@
+﻿============================================================
+Testing with sample plot
+============================================================
+Created sample plot: sample_plot.html
+python : Traceback (most 
+recent call last):
+At line:1 char:1
++ python "Codes\4_2_Read_plot
+ly_html_simple.py" 2>&1 | 
+Out-File -FilePa ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo           
+   : NotSpecified: (Traceba  
+  ck (most recent call las   
+ t)::String) [], RemoteEx    
+ception
+    + FullyQualifiedErrorId  
+   : NativeCommandError
+ 
+  File "C:\Users\A S U 
+S\Documents\Study\Land 
+Surface Phenology\LSP_WS\Code
+s\4_2_Read_plotly_html_simple
+.py", line 154, in <module>
+    print("\u2713 
+Successfully read sample 
+figure")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^
+  File "C:\ProgramData\anacon
+da3\Lib\encodings\cp1252.py",
+ line 19, in encode
+    return codecs.charmap_enc
+ode(input,self.errors,encodin
+g_table)[0]
+           ~~~~~~~~~~~~~~~~~~
+~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't encode 
+character '\u2713' in 
+position 0: character maps 
+to <undefined>
+
+During handling of the above 
+exception, another exception 
+occurred:
+
+Traceback (most recent call 
+last):
+  File "C:\Users\A S U 
+S\Documents\Study\Land 
+Surface Phenology\LSP_WS\Code
+s\4_2_Read_plotly_html_simple
+.py", line 162, in <module>
+    print(f"\u2717 Error 
+reading sample: {e}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^
+  File "C:\ProgramData\anacon
+da3\Lib\encodings\cp1252.py",
+ line 19, in encode
+    return codecs.charmap_enc
+ode(input,self.errors,encodin
+g_table)[0]
+           ~~~~~~~~~~~~~~~~~~
+~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^
+UnicodeEncodeError: 
+'charmap' codec can't encode 
+character '\u2717' in 
+position 0: character maps 
+to <undefined>

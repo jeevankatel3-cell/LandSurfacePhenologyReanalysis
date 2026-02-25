@@ -1,10 +1,12 @@
+Data/DEM_Rasters
+Data/Ecoregion_raster
+Data/Environmental_Drivers
 Data/Unscaled_LSP_Rasters
+Data/Final
+Data/Processed
+Data/roi_nepal
 Data/Scaled_LSP_Rasters
 Data/Standard_Modis_LSP
-Data/DEM_Rasters
-Data/Environmental_Drivers
-Data/Ecoregion_raster
-Data/roi_nepal
 Data/Trend_Rasters
-
+Data/Unscaled_LSP_Rasters
 
