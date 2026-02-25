@@ -1,5 +1,0 @@
-lsp_metric,total_pixels,trend_fitted_pixels,significant_pixels,trend_fitted_pct,sig_from_fitted_pct,sig_from_total_pct
-sos,2565421,2044237,159563,79.68,7.81,6.22
-eos,2565421,2045288,154988,79.73,7.58,6.04
-los,2565421,2045288,191144,79.73,9.35,7.45
-pos,2565421,2045288,513054,79.73,25.08,20.0

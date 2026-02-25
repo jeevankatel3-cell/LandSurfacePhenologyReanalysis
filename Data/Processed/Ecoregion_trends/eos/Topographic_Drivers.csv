@@ -1,8 +1,0 @@
-lsp_metric,ecoregion,elev_r,slope_r,aspect_r,elev_p,slope_p,aspect_p,is_elev_driver,is_slope_driver,is_aspect_driver
-eos,40301,0.329,0.569,0.0,0.2721,0.0426,1.0,NO,YES,NO
-eos,40401,0.157,-0.1,-0.48,0.5085,0.6739,0.0347,NO,NO,YES
-eos,40403,0.359,-0.707,0.0,0.5528,0.1817,1.0,NO,NO,NO
-eos,40501,-0.334,0.453,0.0,0.2885,0.1397,1.0,NO,NO,NO
-eos,40502,0.881,-0.431,-0.345,0.0,0.1241,0.2195,YES,NO,NO
-eos,81003,-0.822,0.243,0.0,0.0066,0.5294,1.0,YES,NO,NO
-eos,81021,-0.064,-0.569,0.499,0.815,0.0214,0.0519,NO,YES,NO
