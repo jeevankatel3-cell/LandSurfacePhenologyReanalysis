@@ -1,6 +1,6 @@
 # Elevation-Dependent Land Surface Phenology Shifts Across Nepal's Ecoregions
 
-This repository contains the data processing, analysis, and visualization code for a study examining 23 years (2001–2024) of Land Surface Phenology (LSP) trends across nine ecoregions of Nepal, and evaluating their topographic and climatic drivers.
+This repository contains the data processing, analysis, and visualization code for a study examining 24 years (2001–2024) of Land Surface Phenology (LSP) trends across nine ecoregions of Nepal, and evaluating their topographic and climatic drivers.
 
 ## Background
 
